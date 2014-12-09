@@ -1,0 +1,19 @@
+Welcome to the MedInformClass wiki!
+# Medical Informatics Curriculum for Udemy Course(s)
+##Background:
+see [Background and motivation](http://www.crunches-data.appspot.com/blog3.html) for the course.
+The central premise is a need for an informatics offering with a medical perspective primarily and in information technology perspective secondarily - to serve medical practitioners and administrators. The intent is to provide the necessary setting for physicians and other medical and paramedical practitioners to effect the development of their information tools directly.
+##Overview:
+The course divides naturally into several parts:
+* **Biomedical Knowledge in an information system context**. An overview of medical data and information and how it would fits into, or is adapted to an information systems paradigm.
+* **General Informatics knowledge**. Information systems tools, both hardware and software. System and tool development as it relates to the medical information and knowledge domain.
+* **Data Analysis Principles**. The statistical basis of aggregated information in the generation of new clinical knowledge knowledge. The epidemiological, community and public health principles at play in the analysis of data and the assessment of medical knowledge in new contexts.
+* **Systems and Organizational knowledge** upon which design and development of information and knowledge tools is based.
+* **Management Principles** as they relate to the governance, strategy, administration and on going maintenance of data storage, the clinical tools and knowledge sharing of clinical medical systems. Essential knowledge for the active participation of clinicians in the operations of Medical Information technology
+##Curriculum:
+##Research and Development:
+##Quality Assurance:
+###Define Measurables and Analysis Methods
+### Monitor Course Completions v.s. Baulks
+### Review and Assess Feedback
+
