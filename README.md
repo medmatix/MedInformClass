@@ -2,7 +2,9 @@ MedInformClass
 ==============
 
 Course Materials for Medical Informatic on Udemy
+
 [See Wiki for this project.](https://github.com/medmatix/MedInformClass/wiki)
+
 Program Development - Medical Informatics Course(s) on Udemy 
 by David Allan York B.Sc., M.D., M.B.A.
 
